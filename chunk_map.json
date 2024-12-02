@@ -1,0 +1,17 @@
+[
+    {
+        "filename": "test1.png",
+        "chunkmap": [
+            "127.0.0.1:38326",
+            "127.0.0.1:61074"
+        ],
+        "total_chunk_num": 2
+    },
+    {
+        "filename": "testfile.txt",
+        "chunkmap": [
+            "127.0.0.1:38326"
+        ],
+        "total_chunk_num": 1
+    }
+]
